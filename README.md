@@ -43,6 +43,14 @@ Memudahkan pengguna untuk membagikan nota pembayaran.
 4. Tunggu proses Gradle Sync hingga selesai.
 5. Jalankan aplikasi menggunakan emulator atau perangkat Android.
 
+## 📸 Tampilan Aplikasi
+
+### 1. Halaman Input
+![Screenshot Input](screenshot-input.jpeg)
+
+### 2. Halaman Nota
+![Screenshot Nota](screenshot-nota.jpeg)
+
 📱 Developer
 
 Dikembangkan sebagai project aplikasi Android.

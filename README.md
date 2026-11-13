@@ -1,30 +1,44 @@
-SiLaundry 🧺
+SiLaundry - Aplikasi Kasir Laundry
 
-Aplikasi Kasir Laundry Berbasis Android
+SiLaundry merupakan aplikasi kasir laundry berbasis Android yang dirancang untuk membantu proses pencatatan pesanan, penghitungan biaya, dan pembuatan nota pembayaran secara lebih mudah, cepat, dan praktis.
 
-SiLaundry merupakan aplikasi kasir laundry berbasis Android yang dibuat untuk membantu proses pencatatan pesanan dan perhitungan biaya laundry agar lebih mudah, cepat, dan praktis.
+🧺 Fitur & Tampilan Aplikasi
 
-✨ Fitur
+1. Input Pesanan
 
-- Input data pelanggan
-- Pilihan jenis layanan laundry
-- Perhitungan biaya otomatis
-- Pilihan layanan reguler dan express
-- Pilihan pewangi dan antar-jemput
-- Diskon pelanggan member
-- Nota pembayaran otomatis
-- Berbagi nota pesanan
+Digunakan untuk memasukkan informasi pelanggan dan menentukan layanan laundry.
 
-🛠️ Teknologi
+2. Pilihan Layanan
 
-- Kotlin
-- XML
-- Android Studio
+Menyediakan beberapa jenis layanan laundry, pilihan kecepatan pengerjaan, serta layanan tambahan.
 
-📱 Tampilan Aplikasi
+3. Perhitungan Biaya
 
-Screenshot aplikasi akan ditambahkan di bagian ini.
+Menghitung total biaya pesanan secara otomatis berdasarkan layanan dan pilihan tambahan.
 
-👩‍💻 Developer
+4. Nota Pembayaran
+
+Menampilkan informasi pelanggan, rincian biaya, total pembayaran, dan estimasi waktu penyelesaian.
+
+5. Berbagi Nota
+
+Memudahkan pengguna untuk membagikan nota pembayaran.
+
+🛠️ Teknologi & Tools
+
+- Bahasa Pemrograman: Kotlin
+- IDE: Android Studio
+- Layout: XML
+- Platform: Android
+
+🚀 Cara Menjalankan Aplikasi
+
+1. Install Android Studio.
+2. Clone atau download repository SiLaundry.
+3. Buka folder project melalui Android Studio.
+4. Tunggu proses Gradle Sync hingga selesai.
+5. Jalankan aplikasi menggunakan emulator atau perangkat Android.
+
+📱 Developer
 
 Dikembangkan sebagai project aplikasi Android.

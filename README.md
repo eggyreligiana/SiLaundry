@@ -7,6 +7,8 @@ SiLaundry merupakan aplikasi kasir laundry berbasis Android yang dirancang untuk
 1. Input Pesanan
 
 Digunakan untuk memasukkan informasi pelanggan dan menentukan layanan laundry.
+[Halaman Input Pesanan]
+(screenshot-input.jpeg)
 
 2. Pilihan Layanan
 
@@ -23,6 +25,8 @@ Menampilkan informasi pelanggan, rincian biaya, total pembayaran, dan estimasi w
 5. Berbagi Nota
 
 Memudahkan pengguna untuk membagikan nota pembayaran.
+[Halaman Nota Pembayaran]
+(screenshot-nota.jpeg)
 
 🛠️ Teknologi & Tools
 

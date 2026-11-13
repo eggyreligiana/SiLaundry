@@ -49,9 +49,9 @@ Memudahkan pengguna untuk membagikan nota pembayaran.
 ### 2. Halaman Nota
 ![Screenshot Nota](screenshot-nota.jpeg)
 
-## 🎥 Demo Aplikasi
+## 📂 File Project
 
-[![Demo Aplikasi](https://img.shields.io/badge/▶-Tonton%20Demo%20Aplikasi-blue?style=for-the-badge)](https://drive.google.com/file/d/1X2wwFI5RONiL7y9JIX-sDpT9cTbJ1HUN/view?usp=sharing)
+[![Google Drive](https://img.shields.io/badge/📁-Lihat%20File%20Project-blue?style=for-the-badge)](https://drive.google.com/drive/folders/1z4FFqco2gSx04qXs4CjWPQ0UysvEM3fH?usp=sharing)
 
 📱 Developer
 
